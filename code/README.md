@@ -1,9 +1,8 @@
-## DATASET
-We could not attach the dataset due to size constraints. You can find them on the following links:
-- [original dataset](https://mega.nz/file/2ABg0DBC#0kZPunfxl-JV0xIurzbjj_iyIeSniSg0BFWlj38L50Y)
-- [augmented dataset](https://mega.nz/file/6FRRhajS#BQfDQwlE5bf9Vm-1G2JU2SPkHU-dWYDS4cTryPUSZjQ)
-Please download the datasets in ./ folder and unzip them.
-If you want, you can download the original dataset and generate the augmented dataset using
+## Dataset
+You can find the augmented dataset [here](https://mega.nz/file/6FRRhajS#BQfDQwlE5bf9Vm-1G2JU2SPkHU-dWYDS4cTryPUSZjQ)
+
+Please download the augmented dataset in ./ folder and unzip it.
+If you want, you can use the original dataset and generate the augmented dataset using
 the 'Data_analysis.ipynb' notebook. Keep in mind the generation may take up to 50 minutes.
 
 
